@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-31T15:20:44.095616+08:00",
-  "total_titles_processed": 1289,
+  "generated_at": "2025-10-31T16:28:10.141082+08:00",
+  "total_titles_processed": 1394,
   "failed_sources": [],
   "trends": [
     {
@@ -27,8 +27,20 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时35分 ~ 15时20分]"
+          "appearance_count": 23,
+          "time_info": "[00时35分 ~ 16时28分]"
+        },
+        {
+          "title": "美参议院通过终止特朗普全面关税政策决议，这意味着什么？美国全面关税政策最终会取消吗？",
+          "url": "https://www.zhihu.com/question/1967494414290084753",
+          "source": "知乎",
+          "ranks": [
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[11时16分 ~ 16时28分]"
         },
         {
           "title": "美参议院通过终止特朗普全面关税政策决议",
@@ -80,17 +92,6 @@
           "time_info": "[00时35分 ~ 11时17分]"
         },
         {
-          "title": "美参议院通过终止特朗普全面关税政策决议，这意味着什么？美国全面关税政策最终会取消吗？",
-          "url": "https://www.zhihu.com/question/1967494414290084753",
-          "source": "知乎",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[11时16分 ~ 15时20分]"
-        },
-        {
           "title": "【早报】美方称中方同意暂停实施稀土出口管制措施，外交部回应；美参议院通过终止特朗普全面关税政策决议",
           "url": "https://www.cls.cn/detail/2187068",
           "source": "财联社热门",
@@ -109,11 +110,27 @@
           "ranks": [
             6,
             1,
-            2
+            2,
+            3
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[09时59分 ~ 15时20分]"
+          "appearance_count": 13,
+          "time_info": "[09时59分 ~ 16时28分]"
+        },
+        {
+          "title": "美参议院通过终止特朗普全面关税政策决议",
+          "url": "https://wallstreetcn.com/articles/3758372",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            6,
+            5,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 13,
+          "time_info": "[09时59分 ~ 16时28分]"
         },
         {
           "title": "美参议院通过终止特朗普关税决议",
@@ -123,11 +140,12 @@
             4,
             1,
             5,
-            15
+            15,
+            18
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[09时59分 ~ 15时20分]"
+          "appearance_count": 13,
+          "time_info": "[09时59分 ~ 16时28分]"
         },
         {
           "title": "特朗普称将下令美航母改回蒸汽弹射",
@@ -140,20 +158,6 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时35分 ~ 07时23分]"
-        },
-        {
-          "title": "美参议院通过终止特朗普全面关税政策决议",
-          "url": "https://wallstreetcn.com/articles/3758372",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            6,
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[09时59分 ~ 15时20分]"
         },
         {
           "title": "特朗普给中美会晤打12分",
@@ -172,20 +176,6 @@
           "time_info": "[00时35分 ~ 15时20分]"
         },
         {
-          "title": "特朗普全面关税被参议院批准终止",
-          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E5%85%A8%E9%9D%A2%E5%85%B3%E7%A8%8E%E8%A2%AB%E5%8F%82%E8%AE%AE%E9%99%A2%E6%89%B9%E5%87%86%E7%BB%88%E6%AD%A2",
-          "source": "bilibili 热搜",
-          "ranks": [
-            4,
-            5,
-            7,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[09时59分 ~ 15时20分]"
-        },
-        {
           "title": "习近平同美国总统特朗普在釜山举行会晤",
           "url": "https://wallstreetcn.com/articles/3758273",
           "source": "华尔街见闻",
@@ -199,6 +189,21 @@
           "is_new": false,
           "appearance_count": 18,
           "time_info": "[00时35分 ~ 13时22分]"
+        },
+        {
+          "title": "特朗普全面关税被参议院批准终止",
+          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E5%85%A8%E9%9D%A2%E5%85%B3%E7%A8%8E%E8%A2%AB%E5%8F%82%E8%AE%AE%E9%99%A2%E6%89%B9%E5%87%86%E7%BB%88%E6%AD%A2",
+          "source": "bilibili 热搜",
+          "ranks": [
+            4,
+            5,
+            7,
+            9,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 13,
+          "time_info": "[09时59分 ~ 16时28分]"
         },
         {
           "title": "特朗普下令重启核试验，美国官员麻了：不切实际",
@@ -235,8 +240,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[09时59分 ~ 15时20分]"
+          "appearance_count": 13,
+          "time_info": "[09时59分 ~ 16时28分]"
         },
         {
           "title": "安德鲁被剥夺王子头衔 美参议院通过终止特朗普全面关税政策决议 | 环球市场",
@@ -333,8 +338,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[09时59分 ~ 15时20分]"
+          "appearance_count": 13,
+          "time_info": "[09时59分 ~ 16时28分]"
         },
         {
           "title": "特朗普批准韩国在美建造核动力潜艇",
@@ -452,7 +457,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时20分"
         },
@@ -518,6 +523,18 @@
           "time_info": "[12时31分 ~ 12时51分]"
         },
         {
+          "title": "终止特朗普全面关税政策落地有多难",
+          "url": "https://www.toutiao.com/trending/7567230870218608138/",
+          "source": "今日头条",
+          "ranks": [
+            24,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时20分 ~ 16时28分]"
+        },
+        {
           "title": "美国总统特朗普的“房管局长”（联邦住房金融局局长）Bill Pulte：房利美今天裁员超过62人。",
           "url": "https://wallstreetcn.com/livenews/2997108",
           "source": "华尔街见闻-快讯",
@@ -572,7 +589,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时20分"
         },
@@ -665,17 +682,6 @@
           "time_info": "02时37分"
         },
         {
-          "title": "终止特朗普全面关税政策落地有多难",
-          "url": "https://www.toutiao.com/trending/7567230870218608138/",
-          "source": "今日头条",
-          "ranks": [
-            24
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时20分"
-        },
-        {
           "title": "美国副总统万斯：美国民众不应该在（总统特朗普）政府关门期间对飞机出行方式感到惶恐不安。 担心飞行员不会重返（飞机）驾驶舱，这造成航班延误。 如果政府关门持续至感恩节，对旅行行业可能是一场灾难。",
           "url": "https://wallstreetcn.com/livenews/2997087",
           "source": "华尔街见闻-快讯",
@@ -701,8 +707,20 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 15,
+      "match_count": 16,
       "titles": [
+        {
+          "title": "美股延续美联储会后颓势，Meta重挫拖累科技股，加密货币大跌，亚马逊苹果绩后大涨",
+          "url": "https://wallstreetcn.com/articles/3758264",
+          "source": "华尔街见闻",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 14,
+          "time_info": "[07时23分 ~ 16时28分]"
+        },
         {
           "title": "美股收盘：三大指数集体下跌 科技巨头股价大起大落",
           "url": "https://www.cls.cn/detail/2187041",
@@ -715,17 +733,6 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[06时26分 ~ 13时22分]"
-        },
-        {
-          "title": "美股延续美联储会后颓势，Meta重挫拖累科技股，加密货币大跌，亚马逊苹果绩后大涨",
-          "url": "https://wallstreetcn.com/articles/3758264",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[07时23分 ~ 15时20分]"
         },
         {
           "title": "美股指数集体低开，纳指跌超1%，Meta跌12%，比特币跌近4%",
@@ -833,6 +840,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时59分 ~ 10时00分]"
+        },
+        {
+          "title": "美股盘前，亚马逊涨约12%，苹果涨约3%",
+          "url": "https://wallstreetcn.com/livenews/2997557",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时28分"
         },
         {
           "title": "金十图示：2025年10月30日（周四）美股热门股票行情一览（美股盘中）",
@@ -959,6 +977,58 @@
       ]
     },
     {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "美股三大期指集体走低 谷歌盘前大涨8% | 今夜看点",
+          "url": "https://www.cls.cn/detail/2186836",
+          "source": "财联社热门",
+          "ranks": [
+            2,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时35分 ~ 07时23分]"
+        },
+        {
+          "title": "标普500指数初步收跌1%，可选消费板块跌2.4%，电信板块跌1.8%，科技板块跌1.3%，房地产板块涨0.8%。 纳斯达克100指数初步收跌1.4%，成分股中，Meta初步收跌约11%，MSTR跌7.1%，特斯拉跌4.4%，核电股Constellation Energy跌4.2%，亚马逊跌3%，谷歌A、MercadoLibre、VRSK、格芯至少涨超2%。 波音初步收跌6%，和VZ、联合健康、亚马逊、微软、英伟达领跌道指成分股，摩根大通、迪士尼、Salesforce、思科则至少涨1%。",
+          "url": "https://wallstreetcn.com/livenews/2997111",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时30分"
+        },
+        {
+          "title": "谷歌Q3业绩全面超预期，云亮眼，上调资本支出至930亿美元，盘后涨超7% | 财报见闻",
+          "url": "https://wallstreetcn.com/articles/3758229",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[04时29分 ~ 06时26分]"
+        },
+        {
+          "title": "谷歌前CEO：当年李鸿章访美被震了，如今外国人来华被惊了",
+          "url": "https://news.ifeng.com/c/8ntxAfWGS8b",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时27分 ~ 16时28分]"
+        }
+      ]
+    },
+    {
       "keyword_group": "金价",
       "match_count": 4,
       "titles": [
@@ -1008,47 +1078,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时31分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "美股三大期指集体走低 谷歌盘前大涨8% | 今夜看点",
-          "url": "https://www.cls.cn/detail/2186836",
-          "source": "财联社热门",
-          "ranks": [
-            2,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时35分 ~ 07时23分]"
-        },
-        {
-          "title": "标普500指数初步收跌1%，可选消费板块跌2.4%，电信板块跌1.8%，科技板块跌1.3%，房地产板块涨0.8%。 纳斯达克100指数初步收跌1.4%，成分股中，Meta初步收跌约11%，MSTR跌7.1%，特斯拉跌4.4%，核电股Constellation Energy跌4.2%，亚马逊跌3%，谷歌A、MercadoLibre、VRSK、格芯至少涨超2%。 波音初步收跌6%，和VZ、联合健康、亚马逊、微软、英伟达领跌道指成分股，摩根大通、迪士尼、Salesforce、思科则至少涨1%。",
-          "url": "https://wallstreetcn.com/livenews/2997111",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时30分"
-        },
-        {
-          "title": "谷歌Q3业绩全面超预期，云亮眼，上调资本支出至930亿美元，盘后涨超7% | 财报见闻",
-          "url": "https://wallstreetcn.com/articles/3758229",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[04时29分 ~ 06时26分]"
         }
       ]
     },
@@ -1136,8 +1165,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时31分 ~ 15时20分]"
+          "appearance_count": 9,
+          "time_info": "[12时31分 ~ 16时28分]"
         }
       ]
     }
