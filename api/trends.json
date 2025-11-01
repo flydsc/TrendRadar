@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-01T09:44:09.694630+08:00",
-  "total_titles_processed": 739,
+  "generated_at": "2025-11-01T11:13:38.300811+08:00",
+  "total_titles_processed": 827,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 46,
+      "match_count": 47,
       "titles": [
         {
           "title": "特朗普称将重启核武试验，俄表示会效仿",
@@ -62,11 +62,12 @@
           "url": "https://www.cls.cn/detail/2188509",
           "source": "财联社热门",
           "ranks": [
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时43分 ~ 09时44分]"
+          "appearance_count": 3,
+          "time_info": "[09时43分 ~ 11时13分]"
         },
         {
           "title": "美参议院通过终止特朗普关税决议",
@@ -115,6 +116,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时27分"
+        },
+        {
+          "title": "美国打击升级？报道称很快要打委内瑞拉地面军事目标，特朗普否认，原油上窜下跳",
+          "url": "https://wallstreetcn.com/articles/3758448",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[07时21分 ~ 11时13分]"
         },
         {
           "title": "美国总统特朗普：加拿大总理卡尼为关税广告道歉。",
@@ -214,18 +227,6 @@
           "time_info": "[02时30分 ~ 03时18分]"
         },
         {
-          "title": "美国打击升级？报道称很快要打委内瑞拉地面军事目标，特朗普否认，原油上窜下跳",
-          "url": "https://wallstreetcn.com/articles/3758448",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时21分 ~ 09时44分]"
-        },
-        {
           "title": "美国法官要求特朗普政府在下周一前说明是否会批准至少削减11月的美国补充营养协助计划（SNAP）福利。",
           "url": "https://flash.jin10.com/detail/20251101015246394800",
           "source": "金十数据",
@@ -260,6 +261,29 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[04时23分 ~ 07时22分]"
+        },
+        {
+          "title": "释疑｜特朗普突然宣称将“重启核试验”，核军备竞赛要来了？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31864882",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时43分 ~ 11时13分]"
+        },
+        {
+          "title": "特朗普匆忙回程或预示美政府结束停摆",
+          "url": "https://www.toutiao.com/trending/7566776242700566564/",
+          "source": "今日头条",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时43分 ~ 11时13分]"
         },
         {
           "title": "特朗普呼吁废除参议院“拖延战术”议事规则，遭共和党内部反对",
@@ -344,17 +368,6 @@
           "time_info": "[04时23分 ~ 05时18分]"
         },
         {
-          "title": "释疑｜特朗普突然宣称将“重启核试验”，核军备竞赛要来了？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31864882",
-          "source": "澎湃新闻",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时43分 ~ 09时44分]"
-        },
-        {
           "title": "美国亚特兰大联储主席博斯蒂克（2027年FOMC票委）：美联储主席鲍威尔说12月降息远非“板上钉钉之事”，这让人感到欣慰。 鲍威尔（在新闻发布会的表态）实际上体现出FOMC成员们看法所形成的一个区间/范围。 每次会议都会根据当时的实际情况来做决定。 （在特朗普政府停摆的）当下是最难预料的。",
           "url": "https://wallstreetcn.com/livenews/2997828",
           "source": "华尔街见闻-快讯",
@@ -367,17 +380,6 @@
           "time_info": "[01时20分 ~ 02时30分]"
         },
         {
-          "title": "特朗普匆忙回程或预示美政府结束停摆",
-          "url": "https://www.toutiao.com/trending/7566776242700566564/",
-          "source": "今日头条",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时43分 ~ 09时44分]"
-        },
-        {
           "title": "美国总统特朗普：我很喜欢加拿大总理卡尼，但加拿大所做的事情是错误的。",
           "url": "https://flash.jin10.com/detail/20251031235806226800",
           "source": "金十数据",
@@ -387,6 +389,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时27分"
+        },
+        {
+          "title": "特朗普：加总理道歉了，没用",
+          "url": "https://news.ifeng.com/c/8nv8pIjDqzy",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时13分"
         },
         {
           "title": "美国总统特朗普：（被问及美国是否将恢复地下核爆试验）你们很快就会知道了。",
@@ -565,11 +578,12 @@
           "source": "财联社热门",
           "ranks": [
             7,
-            9
+            9,
+            11
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时26分 ~ 09时44分]"
+          "appearance_count": 13,
+          "time_info": "[00时26分 ~ 11时13分]"
         },
         {
           "title": "金十图示：2025年10月31日（周五）美股热门股票行情一览（美股收盘）",
@@ -606,8 +620,20 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时21分 ~ 09时44分]"
+          "appearance_count": 5,
+          "time_info": "[07时21分 ~ 11时13分]"
+        },
+        {
+          "title": "美股收盘：亚马逊升近10%创新高 纳指连涨七个月",
+          "url": "https://www.cls.cn/detail/2188490",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[07时21分 ~ 11时13分]"
         },
         {
           "title": "美股三大指数月线均至少六连涨 创多年最长月度连涨纪录",
@@ -633,18 +659,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[04时23分 ~ 07时22分]"
-        },
-        {
-          "title": "美股收盘：亚马逊升近10%创新高 纳指连涨七个月",
-          "url": "https://www.cls.cn/detail/2188490",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时21分 ~ 09时44分]"
         },
         {
           "title": "布油基金收涨将近1.1%，领跑美股大类资产类ETF，黄金ETF跌超0.5%",
@@ -680,8 +694,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时43分 ~ 09时44分]"
+          "appearance_count": 3,
+          "time_info": "[09时43分 ~ 11时13分]"
         },
         {
           "title": "房利美股价跌超10%，创8月11日以来盘中新低。 房地美也跌7%。",
@@ -729,11 +743,12 @@
           "ranks": [
             12,
             11,
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[06时20分 ~ 09时44分]"
+          "appearance_count": 6,
+          "time_info": "[06时20分 ~ 11时13分]"
         },
         {
           "title": "金价10月份涨3.7%，现货白银涨约4.3%",
