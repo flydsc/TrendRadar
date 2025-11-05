@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-05T15:21:35.933256+08:00",
-  "total_titles_processed": 1347,
+  "generated_at": "2025-11-05T16:29:41.725554+08:00",
+  "total_titles_processed": 1468,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 42,
+      "match_count": 43,
       "titles": [
         {
           "title": "民主党人领跑市长选战，特朗普威胁或对纽约“断供”",
@@ -17,6 +17,18 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时26分 ~ 07时20分]"
+        },
+        {
+          "title": "从伊拉克战争幕后推手到特朗普批评者，美国“影子总统”切尼逝世",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31894185",
+          "source": "澎湃新闻",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[11时13分 ~ 16时29分]"
         },
         {
           "title": "佩洛西：特朗普是地表最坏的家伙",
@@ -35,18 +47,6 @@
           "time_info": "[00时26分 ~ 07时20分]"
         },
         {
-          "title": "从伊拉克战争幕后推手到特朗普批评者，美国“影子总统”切尼逝世",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31894185",
-          "source": "澎湃新闻",
-          "ranks": [
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时13分 ~ 15时21分]"
-        },
-        {
           "title": "最高法院周三见分晓，特朗普关税命运系于其亲手任命的三位大法官",
           "url": "https://wallstreetcn.com/articles/3758648",
           "source": "华尔街见闻",
@@ -55,8 +55,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时41分 ~ 15时21分]"
+          "appearance_count": 8,
+          "time_info": "[09时41分 ~ 16时29分]"
         },
         {
           "title": "日本最高外汇事务官员三村淳：特朗普总统将从美日委员会提出的项目中进行挑选。",
@@ -65,7 +65,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时21分"
         },
@@ -337,6 +337,17 @@
           "time_info": "[14时34分 ~ 15时21分]"
         },
         {
+          "title": "市场的“美国中选风向标”：特朗普任内第一场大选，民主党“压倒式胜利”",
+          "url": "https://wallstreetcn.com/articles/3758705",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时29分"
+        },
+        {
           "title": "特朗普选择Jared Isaacman为美国国家航空航天局（NASA）局长。 Jared Isaacman是太空探索公司SpaceX首席执行官（CEO）马斯克的盟友。",
           "url": "https://wallstreetcn.com/livenews/2999440",
           "source": "华尔街见闻-快讯",
@@ -354,7 +365,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时21分"
         },
@@ -505,7 +516,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 30,
+      "match_count": 31,
       "titles": [
         {
           "title": "算力协议力挺Mag 7，亚马逊股价新高，美股分化加剧，加密货币大跌，以太坊重挫",
@@ -527,8 +538,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时41分 ~ 15时21分]"
+          "appearance_count": 8,
+          "time_info": "[09时41分 ~ 16时29分]"
         },
         {
           "title": "美股收盘：“大空头”点燃估值忧虑 纳指跌超2%",
@@ -576,11 +587,12 @@
           "ranks": [
             13,
             6,
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时13分 ~ 15时21分]"
+          "appearance_count": 6,
+          "time_info": "[11时13分 ~ 16时29分]"
         },
         {
           "title": "美股散户指数创特朗普关税日以来的最大跌幅",
@@ -736,9 +748,20 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时21分"
+        },
+        {
+          "title": "美股散户“黑色星期二”有多惨",
+          "url": "https://www.toutiao.com/trending/7569095245124603438/",
+          "source": "今日头条",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时29分"
         },
         {
           "title": "美股AI短线交易员周二救市失败，分析师称周三恐出现另一轮下跌",
@@ -931,7 +954,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时21分"
         },
@@ -969,11 +992,12 @@
           "url": "https://www.douyin.com/hot/2295060",
           "source": "抖音",
           "ranks": [
-            5
+            5,
+            29
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时21分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时21分 ~ 16时29分]"
         },
         {
           "title": "金价大涨，周大生一年关闭 560 家门店，这背后的原因是什么？",
@@ -1028,7 +1052,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时21分"
         }
@@ -1044,11 +1068,12 @@
           "source": "财联社热门",
           "ranks": [
             12,
-            9
+            9,
+            7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时41分 ~ 15时21分]"
+          "appearance_count": 8,
+          "time_info": "[09时41分 ~ 16时29分]"
         },
         {
           "title": "谷歌(GOOG.O)：宣布与Planet公司合作开展一项学习任务，计划于2027年初前发射两颗原型卫星，以在轨测试我们的硬件。",
@@ -1184,7 +1209,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时21分"
         },
@@ -1195,7 +1220,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时21分"
         }
