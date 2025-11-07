@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-07T19:19:10.384272+08:00",
-  "total_titles_processed": 1724,
+  "generated_at": "2025-11-07T20:42:38.668064+08:00",
+  "total_titles_processed": 1827,
   "failed_sources": [],
   "trends": [
     {
@@ -38,8 +38,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[15时20分 ~ 19时19分]"
+          "appearance_count": 8,
+          "time_info": "[15时20分 ~ 20时42分]"
         },
         {
           "title": "特朗普：美国人正为关税付出代价",
@@ -152,7 +152,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时19分"
         },
@@ -350,6 +350,17 @@
           "time_info": "[02时32分 ~ 03时19分]"
         },
         {
+          "title": "拉美领导人在COP30集体开喷，哥伦比亚总统：特朗普反人类",
+          "url": "https://news.ifeng.com/c/8o5WciamJwF",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时18分 ~ 20时42分]"
+        },
+        {
           "title": "美国总统特朗普：共和党因为经济承受问题而在民主党占优势的地区败选。",
           "url": "https://wallstreetcn.com/livenews/3000712",
           "source": "华尔街见闻-快讯",
@@ -401,6 +412,18 @@
           "time_info": "[14时39分 ~ 15时21分]"
         },
         {
+          "title": "85岁佩洛西将退休，回顾她与特朗普交锋历史：夸张鼓掌、手撕演讲稿...",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31914607",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时18分 ~ 20时42分]"
+        },
+        {
           "title": "特朗普痛骂佩洛西",
           "url": "https://www.douyin.com/hot/2297374",
           "source": "抖音",
@@ -411,17 +434,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[11时12分 ~ 12时24分]"
-        },
-        {
-          "title": "拉美领导人在COP30集体开喷，哥伦比亚总统：特朗普反人类",
-          "url": "https://news.ifeng.com/c/8o5WciamJwF",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时18分 ~ 19时19分]"
         },
         {
           "title": "特朗普就美高院激辩关税表态",
@@ -482,17 +494,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时32分 ~ 03时19分]"
-        },
-        {
-          "title": "85岁佩洛西将退休，回顾她与特朗普交锋历史：夸张鼓掌、手撕演讲稿...",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31914607",
-          "source": "澎湃新闻",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时18分 ~ 19时19分]"
         },
         {
           "title": "美国总统特朗普：美国今年的投资可能超过21万亿美元。",
@@ -1243,7 +1244,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
         {
           "title": "美股收盘：OpenAI高管言论引发风暴 纳指跌近2%",
@@ -1267,8 +1268,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[09时42分 ~ 19时19分]"
+          "appearance_count": 14,
+          "time_info": "[09时42分 ~ 20时42分]"
         },
         {
           "title": "机器人工业场景加速推进，测量机“卖爆了” 王兴兴现身谈具身智能的“ChatGPT”时刻",
@@ -1371,6 +1372,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时21分"
+        },
+        {
+          "title": "OpenAI CFO 表达希望美国政府对当前的 AI 算力基础设施投资提供担保，如何评价这一表述？",
+          "url": "https://www.zhihu.com/question/1970068977905525926",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时42分"
         }
       ]
     },
@@ -1480,8 +1492,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[09时42分 ~ 19时19分]"
+          "appearance_count": 14,
+          "time_info": "[09时42分 ~ 20时42分]"
         },
         {
           "title": "逢低买盘再现，部分科技股撑美股反弹，加密货币扭转颓势，美油跌破60美元，美债跌",
@@ -1569,8 +1581,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[06时20分 ~ 19时19分]"
+          "appearance_count": 17,
+          "time_info": "[06时20分 ~ 20时42分]"
         },
         {
           "title": "Google LLC.（谷歌公司）请求美国加州北区法院法官判定，其电池节能功能并没有违反Headwater Research LLC.的专利。 该公司申诉称，Battery Savers和Doze Mode等功能并没有侵犯美国专利法 Nos. 8,589,541和9,215,613。",
