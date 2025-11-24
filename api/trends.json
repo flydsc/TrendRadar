@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-24T15:22:10.807973+08:00",
-  "total_titles_processed": 1100,
+  "generated_at": "2025-11-24T16:31:36.088481+08:00",
+  "total_titles_processed": 1205,
   "failed_sources": [],
   "trends": [
     {
@@ -29,8 +29,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时48分 ~ 15时22分]"
+          "appearance_count": 9,
+          "time_info": "[09时48分 ~ 16时31分]"
         },
         {
           "title": "释疑｜“泽连斯基不喜欢也得喜欢”，特朗普的28点计划究竟说了什么？",
@@ -125,6 +125,17 @@
           "time_info": "[00时24分 ~ 05时19分]"
         },
         {
+          "title": "美媒披露：特朗普最后一刻才知道俄乌“28点和平计划”内容",
+          "url": "https://news.ifeng.com/c/8oXW7E8CBM3",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[14时33分 ~ 16时31分]"
+        },
+        {
           "title": "美国财长贝森特：美国总统特朗普正向俄罗斯施压，要求其结束战争。",
           "url": "https://flash.jin10.com/detail/20251123221310746800",
           "source": "金十数据",
@@ -162,17 +173,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[04时23分 ~ 06时20分]"
-        },
-        {
-          "title": "美媒披露：特朗普最后一刻才知道俄乌“28点和平计划”内容",
-          "url": "https://news.ifeng.com/c/8oXW7E8CBM3",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时33分 ~ 15时22分]"
         },
         {
           "title": "芬兰总统斯图布：美国总统特朗普正在非常努力地寻求解决俄乌冲突的方案。",
@@ -345,7 +345,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "Gemini3.0炸裂玩法合集",
@@ -378,13 +378,24 @@
           "time_info": "[12时35分 ~ 13时23分]"
         },
         {
+          "title": "谷歌称必须每6个月将AI算力翻倍 谷歌算力供应链有望站上风口",
+          "url": "https://www.cls.cn/detail/2208396",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时31分"
+        },
+        {
           "title": "谷歌云：北约与谷歌云签署数百万美元协议，打造由人工智能驱动的主权云。",
           "url": "https://flash.jin10.com/detail/20251124150257144800",
           "source": "金十数据",
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时22分"
         },
@@ -414,8 +425,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时33分 ~ 15时22分]"
+          "appearance_count": 5,
+          "time_info": "[14时33分 ~ 16时31分]"
         },
         {
           "title": "本周重要事件与数据预告：美国数据密集补发、美股假期休市及阿里财报",
@@ -517,7 +528,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时22分"
         }
