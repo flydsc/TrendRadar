@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-07T18:20:38.119493+08:00",
-  "total_titles_processed": 1054,
+  "generated_at": "2025-12-07T19:17:43.902063+08:00",
+  "total_titles_processed": 1109,
   "failed_sources": [],
   "trends": [
     {
@@ -85,17 +85,6 @@
           "time_info": "[13时20分 ~ 17时23分]"
         },
         {
-          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-12-07）",
-          "url": "https://flash.jin10.com/detail/20251207175156547800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时20分"
-        },
-        {
           "title": "美防长：特朗普政府将“把国家实际利益放在首位”",
           "url": "https://flash.jin10.com/detail/20251207122838853800",
           "source": "金十数据",
@@ -111,6 +100,18 @@
           "time_info": "[13时20分 ~ 17时23分]"
         },
         {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-12-07）",
+          "url": "https://flash.jin10.com/detail/20251207175156547800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时20分 ~ 19时17分]"
+        },
+        {
           "title": "特朗普或将给高市早苗放权",
           "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E6%88%96%E5%B0%86%E7%BB%99%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E6%94%BE%E6%9D%83%23&t=31&band_rank=14&Refer=top",
           "source": "微博",
@@ -120,6 +121,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时52分 ~ 09时53分]"
+        },
+        {
+          "title": "美国家公园免票政策调整：增特朗普生日，取消马丁・路德・金纪念日",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32124875",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时20分 ~ 19时17分]"
         },
         {
           "title": "特朗普称其主持典礼会比吉米做得更好",
@@ -133,6 +146,18 @@
           "time_info": "[13时19分 ~ 13时20分]"
         },
         {
+          "title": "特朗普威胁封锁委领空 马杜罗咋办",
+          "url": "https://www.toutiao.com/trending/7581027611489340991/",
+          "source": "今日头条",
+          "ranks": [
+            27,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时20分 ~ 19时17分]"
+        },
+        {
           "title": "年终总结特朗普重返白宫",
           "url": "https://search.bilibili.com/all?keyword=%E5%B9%B4%E7%BB%88%E6%80%BB%E7%BB%93%E7%89%B9%E6%9C%97%E6%99%AE%E9%87%8D%E8%BF%94%E7%99%BD%E5%AE%AB",
           "source": "bilibili 热搜",
@@ -142,28 +167,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时20分"
-        },
-        {
-          "title": "美国家公园免票政策调整：增特朗普生日，取消马丁・路德・金纪念日",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32124875",
-          "source": "澎湃新闻",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时20分"
-        },
-        {
-          "title": "特朗普威胁封锁委领空 马杜罗咋办",
-          "url": "https://www.toutiao.com/trending/7581027611489340991/",
-          "source": "今日头条",
-          "ranks": [
-            27
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时20分"
         }
       ]
     },
@@ -274,11 +277,12 @@
           "ranks": [
             5,
             6,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[14时31分 ~ 18时20分]"
+          "appearance_count": 7,
+          "time_info": "[14时31分 ~ 19时17分]"
         }
       ]
     },
@@ -312,11 +316,12 @@
           "url": "https://flash.jin10.com/detail/20251207170920912800",
           "source": "金十数据",
           "ranks": [
-            7
+            7,
+            17
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时20分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时20分 ~ 19时17分]"
         }
       ]
     }
