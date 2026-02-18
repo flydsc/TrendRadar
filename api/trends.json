@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-18T20:12:20.868561+08:00",
-  "total_titles_processed": 1513,
+  "generated_at": "2026-02-18T21:08:31.592432+08:00",
+  "total_titles_processed": 1610,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 42,
+      "match_count": 43,
       "titles": [
         {
           "title": "美国专家：美伊谈判前景像掷硬币，关键在于特朗普的决策",
@@ -52,8 +52,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时50分 ~ 20时12分]"
+          "appearance_count": 6,
+          "time_info": "[16时50分 ~ 21时08分]"
         },
         {
           "title": "特朗普涉台最新表态，台当局和日本都慌了",
@@ -255,6 +255,17 @@
           "time_info": "[12时55分 ~ 15时52分]"
         },
         {
+          "title": "泽连斯基：特朗普只对乌克兰施压不公平",
+          "url": "https://news.ifeng.com/c/8qqlQxdDOZa",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时12分 ~ 21时08分]"
+        },
+        {
           "title": "美国副总统万斯：特朗普在伊朗问题上有很多选择。",
           "url": "https://flash.jin10.com/detail/20260218043655588800",
           "source": "金十数据",
@@ -325,15 +336,15 @@
           "time_info": "03时12分"
         },
         {
-          "title": "泽连斯基：特朗普只对乌克兰施压不公平",
-          "url": "https://news.ifeng.com/c/8qqlQxdDOZa",
-          "source": "凤凰网",
+          "title": "市场消息：环保组织挑战美国总统特朗普政府撤销美国气候监管依据的决定。",
+          "url": "https://flash.jin10.com/detail/20260218203948742800",
+          "source": "金十数据",
           "ranks": [
-            7
+            6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "20时12分"
+          "time_info": "21时08分"
         },
         {
           "title": "市场消息：特朗普内阁与顾问开会讨论中期选举策略。",
@@ -493,7 +504,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 28,
+      "match_count": 29,
       "titles": [
         {
           "title": "伊朗谈判新策略曝光：与美联合开发油气田、矿区，采购美飞机，“让美国能快速获得高额经济回报”！",
@@ -528,6 +539,18 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[01时00分 ~ 07时31分]"
+        },
+        {
+          "title": "伊朗外长称就伊美谈判“指导原则”达成一致，布油一度跌近3%",
+          "url": "https://wallstreetcn.com/articles/3765814",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[12时55分 ~ 21时08分]"
         },
         {
           "title": "万斯：美方向伊朗划定“红线”",
@@ -573,18 +596,6 @@
           "time_info": "[12时55分 ~ 20时12分]"
         },
         {
-          "title": "伊朗外长称就伊美谈判“指导原则”达成一致，布油一度跌近3%",
-          "url": "https://wallstreetcn.com/articles/3765814",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[12时55分 ~ 20时12分]"
-        },
-        {
           "title": "伊美技术层面谈判已开始，伊朗军演进行中",
           "url": "https://news.ifeng.com/c/8qp2Kff4127",
           "source": "凤凰网",
@@ -611,11 +622,12 @@
           "url": "https://wallstreetcn.com/livenews/3056302",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            4
+            4,
+            18
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时12分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时12分 ~ 21时08分]"
         },
         {
           "title": "伊朗说永不寻求核武并随时接受核查",
@@ -702,6 +714,17 @@
           "time_info": "[05时00分 ~ 05时01分]"
         },
         {
+          "title": "伊朗将迅速落实伊俄全面战略合作计划",
+          "url": "https://www.toutiao.com/trending/7607948856885624895/",
+          "source": "今日头条",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时08分"
+        },
+        {
           "title": "据NBC新闻：美国官员表示，伊朗称将在两周内带来“详细提案，以解决我们立场中的一些开放性差距。”",
           "url": "https://flash.jin10.com/detail/20260218050959244800",
           "source": "金十数据",
@@ -785,7 +808,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时12分"
         },
@@ -826,7 +849,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 21,
+      "match_count": 22,
       "titles": [
         {
           "title": "AI担忧仍存，美股走V微涨，软件股再遭抛售，金银油下挫，期银跌近6%",
@@ -837,8 +860,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[10时24分 ~ 20时12分]"
+          "appearance_count": 11,
+          "time_info": "[10时24分 ~ 21时08分]"
         },
         {
           "title": "美股休市，科技股拖累欧股反弹，黄金失去“中国动力”失守5000美元，人民币涨破6.89",
@@ -862,8 +885,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[01时00分 ~ 20时12分]"
+          "appearance_count": 22,
+          "time_info": "[01时00分 ~ 21时08分]"
         },
         {
           "title": "美股收盘：三大指数小幅收升 英伟达Meta深化合作关系",
@@ -874,8 +897,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[10时24分 ~ 20时12分]"
+          "appearance_count": 11,
+          "time_info": "[10时24分 ~ 21时08分]"
         },
         {
           "title": "美股盘前科技股普涨，黄金收复4900，白银日内涨超3%，欧洲斯托克600触及新纪录高位",
@@ -898,6 +921,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时31分"
+        },
+        {
+          "title": "摩根大通交易台：“先卖再问”的美股AI抛售潮即将结束，抄底软件股的时候到了",
+          "url": "https://wallstreetcn.com/articles/3765829",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时51分 ~ 21时08分]"
         },
         {
           "title": "美股大类资产类ETF多数下跌，黄金ETF收跌超3.1%，地产ETF涨超0.9%",
@@ -935,18 +970,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时39分 ~ 06时43分]"
-        },
-        {
-          "title": "摩根大通交易台：“先卖再问”的美股AI抛售潮即将结束，抄底软件股的时候到了",
-          "url": "https://wallstreetcn.com/articles/3765829",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时51分 ~ 20时12分]"
         },
         {
           "title": "Meta与英伟达打造AI基础设施。Meta将加大部署英伟达CPU。 英伟达宣布，与对方达成持续多年的合作伙伴关系。 英伟达美股盘后涨1.1%，AMD跌幅扩大至3.6%。",
@@ -1029,6 +1052,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时39分"
+        },
+        {
+          "title": "Analog Devices第一财季营收31.6亿美元，预估31.2亿美元。 第一财季每股收益1.69美元，预估1.61美元。 Analog Devices美股盘前涨近4%。",
+          "url": "https://wallstreetcn.com/livenews/3056309",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时08分"
         },
         {
           "title": "周二（2月17日）纽约尾盘，彭博电动汽车价格回报指数跌0.36%，报3612.03点，全天处于下跌状态，美股开盘后短线跳水至3591.48点、随后逐步收复这一波失地。 成分股中，EVgo目前跌约7.9%，“特斯拉劲敌”Rivian跌6.8%，Lucid集团跌3.7%，普拉格动力跌3.4%，MobilEye Global Inc.则涨1.5%，美国雅宝涨2.3%，禾赛科技涨4.6%。",
@@ -1116,6 +1150,18 @@
           "time_info": "[01时01分 ~ 02时01分]"
         },
         {
+          "title": "谷歌母公司Alphabet首席执行官Pichai：投入人工智能合情合理，因为这是一个非凡的机遇。",
+          "url": "https://wallstreetcn.com/livenews/3056294",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时12分 ~ 21时08分]"
+        },
+        {
           "title": "谷歌母公司Alphabet：谷歌年度开发者大会（I/O developer conference）将于5月19-20日举行。",
           "url": "https://wallstreetcn.com/livenews/3056192",
           "source": "华尔街见闻-快讯",
@@ -1126,17 +1172,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时24分 ~ 12时55分]"
-        },
-        {
-          "title": "谷歌母公司Alphabet首席执行官Pichai：投入人工智能合情合理，因为这是一个非凡的机遇。",
-          "url": "https://wallstreetcn.com/livenews/3056294",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时12分"
         },
         {
           "title": "13F报告显示：Tiger Global Management LLC.在四季度增持Coupang、Black、ServiceNOW等。 清仓MongoDB等。 减持Sea、微软、Applovin、Meta、Reddit。 重仓谷歌母公司Alphabet、微软、亚马逊、英伟达、Sea。",
@@ -1156,7 +1191,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时12分"
         },
