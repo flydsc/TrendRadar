@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-21T15:34:36.714117+08:00",
-  "total_titles_processed": 1029,
+  "generated_at": "2026-02-21T16:34:52.134664+08:00",
+  "total_titles_processed": 1092,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 139,
+      "match_count": 144,
       "titles": [
         {
           "title": "特朗普全球关税被推翻！美国最高法院裁定违法，超1750亿美元税收面临退款",
@@ -15,8 +15,32 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[01时39分 ~ 15时34分]"
+          "appearance_count": 18,
+          "time_info": "[01时39分 ~ 16时34分]"
+        },
+        {
+          "title": "特朗普：将对全球加征10%的进口关税",
+          "url": "https://news.ifeng.com/c/8quuPHVWc4v",
+          "source": "凤凰网",
+          "ranks": [
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[07时33分 ~ 16时34分]"
+        },
+        {
+          "title": "特朗普确认正在考虑对伊朗进行“有限军事打击”",
+          "url": "https://news.ifeng.com/c/8qumlGo0uMH",
+          "source": "凤凰网",
+          "ranks": [
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[07时33分 ~ 16时34分]"
         },
         {
           "title": "美国最高法院裁定特朗普关税政策违法",
@@ -30,28 +54,15 @@
           "time_info": "[00时42分 ~ 06时29分]"
         },
         {
-          "title": "特朗普：将对全球加征10%的进口关税",
-          "url": "https://news.ifeng.com/c/8quuPHVWc4v",
+          "title": "白宫宣布特朗普访华时间",
+          "url": "https://news.ifeng.com/c/8qv4xvlu4dd",
           "source": "凤凰网",
           "ranks": [
-            1,
-            2
+            1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[07时33分 ~ 15时34分]"
-        },
-        {
-          "title": "特朗普确认正在考虑对伊朗进行“有限军事打击”",
-          "url": "https://news.ifeng.com/c/8qumlGo0uMH",
-          "source": "凤凰网",
-          "ranks": [
-            2,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[07时33分 ~ 15时34分]"
+          "appearance_count": 8,
+          "time_info": "[10时05分 ~ 16时34分]"
         },
         {
           "title": "美国最高法院裁定特朗普政府大规模关税政策违法 ，这会带来哪些影响？关税政策会撤回吗？",
@@ -63,11 +74,12 @@
             4,
             3,
             2,
-            1
+            1,
+            8
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[01时39分 ~ 15时34分]"
+          "appearance_count": 18,
+          "time_info": "[01时39分 ~ 16时34分]"
         },
         {
           "title": "“10-15天”最后通牒？特朗普：美伊必须达成有意义协议，否则发生“糟糕的事”",
@@ -81,15 +93,37 @@
           "time_info": "[00时42分 ~ 05时28分]"
         },
         {
-          "title": "白宫宣布特朗普访华时间",
-          "url": "https://news.ifeng.com/c/8qv4xvlu4dd",
-          "source": "凤凰网",
+          "title": "最高法裁决后特朗普动用替补工具，加征10%全球关税，放话关税会比之前“高得多”",
+          "url": "https://wallstreetcn.com/articles/3765912",
+          "source": "华尔街见闻",
           "ranks": [
-            1
+            4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时05分 ~ 15时34分]"
+          "appearance_count": 8,
+          "time_info": "[10时05分 ~ 16时34分]"
+        },
+        {
+          "title": "特朗普关税政策被裁违法，欧盟、加拿大回应",
+          "url": "https://news.ifeng.com/c/8qv0GYUKSa8",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[10时05分 ~ 16时34分]"
+        },
+        {
+          "title": "一觉醒来，世界大变，特朗普改新打法了",
+          "url": "https://news.ifeng.com/c/8quymsC7CTZ",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[10时05分 ~ 16时34分]"
         },
         {
           "title": "美最高法院裁定特朗普关税违法",
@@ -117,41 +151,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[06时29分 ~ 15时34分]"
-        },
-        {
-          "title": "最高法裁决后特朗普动用替补工具，加征10%全球关税，放话关税会比之前“高得多”",
-          "url": "https://wallstreetcn.com/articles/3765912",
-          "source": "华尔街见闻",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时05分 ~ 15时34分]"
-        },
-        {
-          "title": "特朗普关税政策被裁违法，欧盟、加拿大回应",
-          "url": "https://news.ifeng.com/c/8qv0GYUKSa8",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时05分 ~ 15时34分]"
-        },
-        {
-          "title": "一觉醒来，世界大变，特朗普改新打法了",
-          "url": "https://news.ifeng.com/c/8quymsC7CTZ",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时05分 ~ 15时34分]"
+          "appearance_count": 11,
+          "time_info": "[06时29分 ~ 16时34分]"
         },
         {
           "title": "特朗普回忆2017年访华经历，赞叹中国仪仗队强大阵容",
@@ -170,11 +171,12 @@
           "source": "财联社热门",
           "ranks": [
             13,
-            12
+            12,
+            11
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时42分 ~ 15时34分]"
+          "appearance_count": 16,
+          "time_info": "[00时42分 ~ 16时34分]"
         },
         {
           "title": "美最高法院裁定特朗普关税违法",
@@ -217,6 +219,47 @@
           "time_info": "[00时42分 ~ 06时29分]"
         },
         {
+          "title": "特朗普宣布签署行政令 加征10%全球进口关税",
+          "url": "https://www.cls.cn/detail/2292246",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            6,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[12时27分 ~ 16时34分]"
+        },
+        {
+          "title": "美最高法院裁定特朗普全球关税违法",
+          "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E6%9C%80%E9%AB%98%E6%B3%95%E9%99%A2%E8%A3%81%E5%AE%9A%E7%89%B9%E6%9C%97%E6%99%AE%E5%85%A8%E7%90%83%E5%85%B3%E7%A8%8E%E8%BF%9D%E6%B3%95",
+          "source": "bilibili 热搜",
+          "ranks": [
+            7,
+            8,
+            10,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[10时05分 ~ 16时34分]"
+        },
+        {
+          "title": "特朗普签署行政令对全球商品加征10%关税",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32638557",
+          "source": "澎湃新闻",
+          "ranks": [
+            14,
+            12,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[10时05分 ~ 16时34分]"
+        },
+        {
           "title": "特朗普阵营的坚定降息派动摇了？美联储理事米兰：劳动力市场改善可令今年少些降息",
           "url": "https://wallstreetcn.com/articles/3765884",
           "source": "华尔街见闻",
@@ -239,46 +282,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[03时38分 ~ 07时34分]"
-        },
-        {
-          "title": "特朗普宣布签署行政令 加征10%全球进口关税",
-          "url": "https://www.cls.cn/detail/2292246",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            6,
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时27分 ~ 15时34分]"
-        },
-        {
-          "title": "美最高法院裁定特朗普全球关税违法",
-          "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E6%9C%80%E9%AB%98%E6%B3%95%E9%99%A2%E8%A3%81%E5%AE%9A%E7%89%B9%E6%9C%97%E6%99%AE%E5%85%A8%E7%90%83%E5%85%B3%E7%A8%8E%E8%BF%9D%E6%B3%95",
-          "source": "bilibili 热搜",
-          "ranks": [
-            7,
-            8,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时05分 ~ 15时34分]"
-        },
-        {
-          "title": "特朗普签署行政令对全球商品加征10%关税",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32638557",
-          "source": "澎湃新闻",
-          "ranks": [
-            14,
-            12,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时05分 ~ 15时34分]"
         },
         {
           "title": "金十提示：美国总统特朗普关税新闻发布会结束。",
@@ -315,6 +318,47 @@
           "time_info": "[10时05分 ~ 10时06分]"
         },
         {
+          "title": "摩根大通申请将特朗普的诉讼转移至纽约联邦法院审理",
+          "url": "https://flash.jin10.com/detail/20260221113808582800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            4,
+            10,
+            14,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时28分 ~ 16时34分]"
+        },
+        {
+          "title": "打击伊朗，特朗普被曝早有“刺杀目标”",
+          "url": "https://news.ifeng.com/c/8qvBfDgt5ZP",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[12时27分 ~ 16时34分]"
+        },
+        {
+          "title": "美国总统特朗普：共和党人对自己太不忠诚了！团结起来，齐心协力，赢得胜利！",
+          "url": "https://flash.jin10.com/detail/20260221112512197800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            5,
+            11,
+            15,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时28分 ~ 16时34分]"
+        },
+        {
           "title": "特朗普称将加征10%全球进口关税",
           "url": "https://www.toutiao.com/trending/7609086732507565587/",
           "source": "今日头条",
@@ -337,32 +381,17 @@
           "time_info": "[12时27分 ~ 12时28分]"
         },
         {
-          "title": "摩根大通申请将特朗普的诉讼转移至纽约联邦法院审理",
-          "url": "https://flash.jin10.com/detail/20260221113808582800",
-          "source": "金十数据",
+          "title": "得知高院否决关税那一刻，特朗普“气炸了”，“破口大骂”",
+          "url": "https://wallstreetcn.com/articles/3765923",
+          "source": "华尔街见闻",
           "ranks": [
-            3,
-            4,
             10,
-            14
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时28分 ~ 15时34分]"
-        },
-        {
-          "title": "美国总统特朗普：共和党人对自己太不忠诚了！团结起来，齐心协力，赢得胜利！",
-          "url": "https://flash.jin10.com/detail/20260221112512197800",
-          "source": "金十数据",
-          "ranks": [
-            4,
-            5,
-            11,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时28分 ~ 15时34分]"
+          "appearance_count": 6,
+          "time_info": "[12时27分 ~ 16时34分]"
         },
         {
           "title": "美国总统特朗普：某些大法官“不想做正确的事”。",
@@ -385,6 +414,19 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时52分"
+        },
+        {
+          "title": "美国迎来「特朗普关税违法、 PCE 、 GDP」三大超预期时刻，全球贸易和金融市场将会如何变化？",
+          "url": "https://www.zhihu.com/question/2008327529652577984",
+          "source": "知乎",
+          "ranks": [
+            13,
+            15,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[12时27分 ~ 16时34分]"
         },
         {
           "title": "特朗普政府全球关税被推翻！美最高法院裁定政策违法",
@@ -424,17 +466,6 @@
           "time_info": "[07时34分 ~ 14时44分]"
         },
         {
-          "title": "打击伊朗，特朗普被曝早有“刺杀目标”",
-          "url": "https://news.ifeng.com/c/8qvBfDgt5ZP",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时27分 ~ 15时34分]"
-        },
-        {
           "title": "机构：特朗普关税裁决更多是政治性而非经济性问题",
           "url": "https://flash.jin10.com/detail/20260221010827073800",
           "source": "金十数据",
@@ -457,6 +488,17 @@
           "time_info": "02时52分"
         },
         {
+          "title": "法国总统马克龙：美国最高法院关于美国总统特朗普关税的裁决表明，拥有制衡权力和法治是件好事。",
+          "url": "https://flash.jin10.com/detail/20260221160513093800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时34分"
+        },
+        {
           "title": "美国总统特朗普：法院中的民主党人将自动投“否决”票。",
           "url": "https://flash.jin10.com/detail/20260221022333156800",
           "source": "金十数据",
@@ -468,17 +510,15 @@
           "time_info": "02时52分"
         },
         {
-          "title": "得知高院否决关税那一刻，特朗普“气炸了”，“破口大骂”",
-          "url": "https://wallstreetcn.com/articles/3765923",
-          "source": "华尔街见闻",
+          "title": "泰国工业联合会：特朗普10%的全球关税将重创泰国电子产品和汽车行业出口",
+          "url": "https://flash.jin10.com/detail/20260221155325101800",
+          "source": "金十数据",
           "ranks": [
-            10,
-            7,
-            6
+            4
           ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时27分 ~ 15时34分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时34分"
         },
         {
           "title": "美国总统特朗普：经济已重拾巨大信心。",
@@ -594,6 +634,21 @@
           "time_info": "[03时38分 ~ 07时34分]"
         },
         {
+          "title": "摩根大通将特朗普“去银行化”诉讼案件从佛罗里达转移至纽约。（Politico）",
+          "url": "https://wallstreetcn.com/livenews/3057151",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            11,
+            13,
+            17,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时28分 ~ 16时34分]"
+        },
+        {
           "title": "一觉醒来特朗普改新打法了",
           "url": "https://s.weibo.com/weibo?q=%23%E4%B8%80%E8%A7%89%E9%86%92%E6%9D%A5%E7%89%B9%E6%9C%97%E6%99%AE%E6%94%B9%E6%96%B0%E6%89%93%E6%B3%95%E4%BA%86%23&t=31&band_rank=12&Refer=top",
           "source": "微博",
@@ -605,18 +660,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[10时05分 ~ 13时43分]"
-        },
-        {
-          "title": "美国迎来「特朗普关税违法、 PCE 、 GDP」三大超预期时刻，全球贸易和金融市场将会如何变化？",
-          "url": "https://www.zhihu.com/question/2008327529652577984",
-          "source": "知乎",
-          "ranks": [
-            13,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时27分 ~ 15时34分]"
         },
         {
           "title": "美国副总统万斯：总统特朗普将动用其他广泛的关税权力。",
@@ -669,6 +712,19 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时28分 ~ 07时34分]"
+        },
+        {
+          "title": "越南方面称特朗普将允许越南获取受限技术",
+          "url": "https://flash.jin10.com/detail/20260221132710596800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            9,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时44分 ~ 16时34分]"
         },
         {
           "title": "美国总统特朗普：关税已经被用来结束（多场）战争。",
@@ -731,18 +787,6 @@
           "time_info": "[01时40分 ~ 02时52分]"
         },
         {
-          "title": "越南方面称特朗普将允许越南获取受限技术",
-          "url": "https://flash.jin10.com/detail/20260221132710596800",
-          "source": "金十数据",
-          "ranks": [
-            5,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时44分 ~ 15时34分]"
-        },
-        {
           "title": "耐克跌幅扩大至2.6%。 “特朗普关税输家指数”跌0.3%，刷新日低至117.81点，美国最高法院判定特朗普关税政策违法时飙升至122.02点刷新日高。",
           "url": "https://wallstreetcn.com/livenews/3057031",
           "source": "华尔街见闻-快讯",
@@ -765,20 +809,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时35分 ~ 05时28分]"
-        },
-        {
-          "title": "摩根大通将特朗普“去银行化”诉讼案件从佛罗里达转移至纽约。（Politico）",
-          "url": "https://wallstreetcn.com/livenews/3057151",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
-            11,
-            13,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时28分 ~ 15时34分]"
         },
         {
           "title": "特朗普对伊朗发出最新通牒，称打击伊朗“选择范围很广”",
@@ -972,6 +1002,18 @@
           "time_info": "[12时27分 ~ 12时28分]"
         },
         {
+          "title": "特朗普：将在常规关税基础上对全球征收10%的进口关税",
+          "url": "https://www.cls.cn/detail/2292216",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时34分 ~ 16时34分]"
+        },
+        {
           "title": "委内瑞拉内政部长Diosdado Cabello通过国家电视台宣布：（被特朗普派兵强行掳走的）总统马杜罗夫妇首次获得委领事探访。",
           "url": "https://wallstreetcn.com/livenews/3057008",
           "source": "华尔街见闻-快讯",
@@ -1017,6 +1059,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时27分 ~ 12时28分]"
+        },
+        {
+          "title": "白宫官员确认，美国总统特朗普计划于 3 月 31 日至 4 月 2 日访问中国，哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/2008503061484631366",
+          "source": "知乎",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时34分 ~ 16时34分]"
         },
         {
           "title": "美国总统特朗普：越南最高领导人刚刚离开我的办公室。",
@@ -1146,6 +1199,28 @@
           "time_info": "02时52分"
         },
         {
+          "title": "如何看待特朗普全球关税被推翻",
+          "url": "https://www.douyin.com/hot/2407389",
+          "source": "抖音",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时34分"
+        },
+        {
+          "title": "别为美最高法推翻特朗普关税高兴太早？华尔街预计市场反应或昙花一现",
+          "url": "https://wallstreetcn.com/articles/3765913",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时34分"
+        },
+        {
           "title": "凯投宏观：特朗普政府有多种替代方案推进贸易壁垒",
           "url": "https://flash.jin10.com/detail/20260221005531675800",
           "source": "金十数据",
@@ -1201,15 +1276,15 @@
           "time_info": "03时38分"
         },
         {
-          "title": "特朗普：将在常规关税基础上对全球征收10%的进口关税",
-          "url": "https://www.cls.cn/detail/2292216",
-          "source": "财联社热门",
+          "title": "释新闻｜美最高法院6比3裁定特朗普全球关税违法，意味着什么？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32638670",
+          "source": "澎湃新闻",
           "ranks": [
             13
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "15时34分"
+          "time_info": "16时34分"
         },
         {
           "title": "美国总统特朗普：我们已经消除了关税带来的不确定性。",
@@ -1243,17 +1318,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时52分"
-        },
-        {
-          "title": "白宫官员确认，美国总统特朗普计划于 3 月 31 日至 4 月 2 日访问中国，哪些信息值得关注？",
-          "url": "https://www.zhihu.com/question/2008503061484631366",
-          "source": "知乎",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时34分"
         },
         {
           "title": "美国总统特朗普：我们有一位非常无能的美联储主席，他喜欢高利率。",
@@ -1655,8 +1719,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[07时33分 ~ 15时34分]"
+          "appearance_count": 10,
+          "time_info": "[07时33分 ~ 16时34分]"
         },
         {
           "title": "科技股拖累美股，金融股砸盘，美伊开打危险撑原油至半年新高，降息分歧压制黄金涨势",
@@ -1680,8 +1744,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时42分 ~ 15时34分]"
+          "appearance_count": 19,
+          "time_info": "[00时42分 ~ 16时34分]"
         },
         {
           "title": "美股收盘：特朗普关税“翻车”成利好 三大指数集体收涨",
@@ -1693,8 +1757,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时05分 ~ 15时34分]"
+          "appearance_count": 8,
+          "time_info": "[10时05分 ~ 16时34分]"
         },
         {
           "title": "美股收盘：“七巨头”集体走高 三大指数齐收涨",
@@ -1876,8 +1940,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时05分 ~ 15时34分]"
+          "appearance_count": 8,
+          "time_info": "[10时05分 ~ 16时34分]"
         },
         {
           "title": "联合国：收到伊朗来信 对地区紧张局势深表关切",
@@ -1919,6 +1983,18 @@
           "time_info": "[06时29分 ~ 07时34分]"
         },
         {
+          "title": "美国伊朗是否会达成协议",
+          "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E5%9B%BD%E4%BC%8A%E6%9C%97%E6%98%AF%E5%90%A6%E4%BC%9A%E8%BE%BE%E6%88%90%E5%8D%8F%E8%AE%AE",
+          "source": "bilibili 热搜",
+          "ranks": [
+            8,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时34分 ~ 16时34分]"
+        },
+        {
           "title": "多国敦促在伊朗公民尽快撤离",
           "url": "https://www.baidu.com/s?wd=%E5%A4%9A%E5%9B%BD%E6%95%A6%E4%BF%83%E5%9C%A8%E4%BC%8A%E6%9C%97%E5%85%AC%E6%B0%91%E5%B0%BD%E5%BF%AB%E6%92%A4%E7%A6%BB",
           "source": "百度热搜",
@@ -1928,17 +2004,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时05分 ~ 10时06分]"
-        },
-        {
-          "title": "美国伊朗是否会达成协议",
-          "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E5%9B%BD%E4%BC%8A%E6%9C%97%E6%98%AF%E5%90%A6%E4%BC%9A%E8%BE%BE%E6%88%90%E5%8D%8F%E8%AE%AE",
-          "source": "bilibili 热搜",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时34分"
         },
         {
           "title": "美军对伊朗的打击可能针对个别领导人",
@@ -2010,11 +2075,12 @@
             9,
             10,
             16,
-            20
+            20,
+            25
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时28分 ~ 15时34分]"
+          "appearance_count": 5,
+          "time_info": "[12时28分 ~ 16时34分]"
         },
         {
           "title": "报道：英伟达接近向OpenAI投资300亿美元",
@@ -2046,19 +2112,6 @@
       "match_count": 4,
       "titles": [
         {
-          "title": "“谷歌天团”反击AI泡沫质疑：这是工业革命，但速度快10倍、规模大10倍",
-          "url": "https://wallstreetcn.com/articles/3765904",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[06时29分 ~ 15时34分]"
-        },
-        {
           "title": "实测Gemini 3.1 Pro",
           "url": "https://search.bilibili.com/all?keyword=%E5%AE%9E%E6%B5%8BGemini%203.1%20Pro",
           "source": "bilibili 热搜",
@@ -2068,8 +2121,21 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时05分 ~ 15时34分]"
+          "appearance_count": 8,
+          "time_info": "[10时05分 ~ 16时34分]"
+        },
+        {
+          "title": "“谷歌天团”反击AI泡沫质疑：这是工业革命，但速度快10倍、规模大10倍",
+          "url": "https://wallstreetcn.com/articles/3765904",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[06时29分 ~ 16时34分]"
         },
         {
           "title": "区域银行ETF收涨约1.3%，领跑美股行业ETF，标普电信板块涨超2.6%，谷歌A涨4%",
@@ -2106,11 +2172,12 @@
           "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7&t=31&band_rank=11&Refer=top",
           "source": "微博",
           "ranks": [
-            11
+            11,
+            13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时44分 ~ 15时34分]"
+          "appearance_count": 3,
+          "time_info": "[14时44分 ~ 16时34分]"
         },
         {
           "title": "金价银价大涨",
@@ -2121,8 +2188,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时44分 ~ 15时34分]"
+          "appearance_count": 3,
+          "time_info": "[14时44分 ~ 16时34分]"
         },
         {
           "title": "金价震荡后回升，关税风波叠加俄罗斯售金",
@@ -2162,11 +2229,12 @@
           "source": "华尔街见闻",
           "ranks": [
             10,
-            8
+            8,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时44分 ~ 15时34分]"
+          "appearance_count": 3,
+          "time_info": "[14时44分 ~ 16时34分]"
         }
       ]
     },
