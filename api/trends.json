@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-22T22:29:01.078209+08:00",
-  "total_titles_processed": 1256,
+  "generated_at": "2026-02-22T23:27:57.626037+08:00",
+  "total_titles_processed": 1293,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 59,
+      "match_count": 60,
       "titles": [
         {
           "title": "特朗普的报复来了",
@@ -15,8 +15,19 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[10时22分 ~ 22时29分]"
+          "appearance_count": 19,
+          "time_info": "[10时22分 ~ 23时27分]"
+        },
+        {
+          "title": "美国前商务部长：其他关税方案，都会削弱特朗普对华谈判筹码",
+          "url": "https://news.ifeng.com/c/8qxAuTEgS6q",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[18时28分 ~ 23时27分]"
         },
         {
           "title": "特朗普新加征关税加码至15%",
@@ -77,17 +88,6 @@
           "time_info": "[00时31分 ~ 07时27分]"
         },
         {
-          "title": "美国前商务部长：其他关税方案，都会削弱特朗普对华谈判筹码",
-          "url": "https://news.ifeng.com/c/8qxAuTEgS6q",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[18时28分 ~ 22时29分]"
-        },
-        {
           "title": "特朗普新加征关税税率加码至15% 美政府“越权”关税引企业诉讼潮",
           "url": "https://wallstreetcn.com/articles/3765942",
           "source": "华尔街见闻",
@@ -100,8 +100,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[12时50分 ~ 22时29分]"
+          "appearance_count": 17,
+          "time_info": "[12时50分 ~ 23时27分]"
         },
         {
           "title": "特朗普宣布签署行政令 加征10%全球进口关税",
@@ -113,8 +113,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 28,
-          "time_info": "[00时31分 ~ 22时29分]"
+          "appearance_count": 29,
+          "time_info": "[00时31分 ~ 23时27分]"
         },
         {
           "title": "高院否决、特朗普再加！美国关税税率现在变成什么样了？",
@@ -159,8 +159,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 26,
-          "time_info": "[02时37分 ~ 22时29分]"
+          "appearance_count": 27,
+          "time_info": "[02时37分 ~ 23时27分]"
         },
         {
           "title": "印尼总统：（被问及美国最高法院对特朗普关税的裁决）已准备好应对所有可能性；呼吁尊重美国国内政治。",
@@ -221,6 +221,18 @@
           "time_info": "[12时50分 ~ 17时33分]"
         },
         {
+          "title": "日方批特朗普再加征关税：混乱环境或致日企撤离美国",
+          "url": "https://news.ifeng.com/c/8qxI3ju2UuK",
+          "source": "凤凰网",
+          "ranks": [
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[21时45分 ~ 23时27分]"
+        },
+        {
           "title": "伊朗外长驳斥特朗普涉伊朗骚乱伤亡人数言论",
           "url": "https://wallstreetcn.com/livenews/3057239",
           "source": "华尔街见闻-快讯",
@@ -249,6 +261,35 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时31分 ~ 10时23分]"
+        },
+        {
+          "title": "Netflix董事会成员警告“向特朗普屈膝”企业将自食其果，特朗普怒了",
+          "url": "https://wallstreetcn.com/livenews/3057250",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            5,
+            12,
+            15,
+            20,
+            21,
+            25,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[16时35分 ~ 23时27分]"
+        },
+        {
+          "title": "特朗普：将在常规关税基础上对全球征收10%的进口关税",
+          "url": "https://www.cls.cn/detail/2292216",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[19时23分 ~ 23时27分]"
         },
         {
           "title": "关税政策被判违法后，特朗普称将加征10%全球进口关税",
@@ -289,35 +330,6 @@
           "time_info": "[16时35分 ~ 19时24分]"
         },
         {
-          "title": "日方批特朗普再加征关税：混乱环境或致日企撤离美国",
-          "url": "https://news.ifeng.com/c/8qxI3ju2UuK",
-          "source": "凤凰网",
-          "ranks": [
-            4,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[21时45分 ~ 22时29分]"
-        },
-        {
-          "title": "Netflix董事会成员警告“向特朗普屈膝”企业将自食其果，特朗普怒了",
-          "url": "https://wallstreetcn.com/livenews/3057250",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            5,
-            12,
-            15,
-            20,
-            21,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[16时35分 ~ 22时29分]"
-        },
-        {
           "title": "高院否决，特朗普将被迫退税！华尔街“早就下注”，商务部长儿子甚至一度参与",
           "url": "https://wallstreetcn.com/articles/3765924",
           "source": "华尔街见闻",
@@ -329,17 +341,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[03时26分 ~ 10时23分]"
-        },
-        {
-          "title": "特朗普：将在常规关税基础上对全球征收10%的进口关税",
-          "url": "https://www.cls.cn/detail/2292216",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[19时23分 ~ 22时29分]"
         },
         {
           "title": "特朗普：C罗美国需要你",
@@ -375,6 +376,17 @@
           "time_info": "[00时31分 ~ 07时27分]"
         },
         {
+          "title": "美州长向特朗普发账单，要求退回87亿美元关税",
+          "url": "https://news.ifeng.com/c/8qxUeFL6TqS",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[22时28分 ~ 23时27分]"
+        },
+        {
           "title": "别为美最高法推翻特朗普关税高兴太早？华尔街预计市场反应或昙花一现",
           "url": "https://wallstreetcn.com/articles/3765913",
           "source": "华尔街见闻",
@@ -385,17 +397,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时31分 ~ 04时28分]"
-        },
-        {
-          "title": "美州长向特朗普发账单，要求退回87亿美元关税",
-          "url": "https://news.ifeng.com/c/8qxUeFL6TqS",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时28分 ~ 22时29分]"
         },
         {
           "title": "美媒：特朗普身边几人建议不要轰炸伊朗 参议员格雷厄姆持反对意见",
@@ -410,6 +411,22 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[13时53分 ~ 16时35分]"
+        },
+        {
+          "title": "美国总统特使：特朗普感到“好奇”，“伊朗为何还没有屈服”",
+          "url": "https://wallstreetcn.com/livenews/3057256",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            9,
+            14,
+            15,
+            19,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[18时28分 ~ 23时27分]"
         },
         {
           "title": "美国总统特使：特朗普很好奇伊朗为什么还没有屈服？",
@@ -458,6 +475,21 @@
           "time_info": "[12时50分 ~ 16时35分]"
         },
         {
+          "title": "摩根大通承认国会山骚乱后关了特朗普的账户",
+          "url": "https://wallstreetcn.com/livenews/3057262",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            8,
+            9,
+            13,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[19时24分 ~ 23时27分]"
+        },
+        {
           "title": "特朗普威胁奈飞：若不解雇董事会成员赖斯，将付出代价",
           "url": "https://flash.jin10.com/detail/20260222092613614800",
           "source": "金十数据",
@@ -502,18 +534,15 @@
           "time_info": "[13时53分 ~ 16时35分]"
         },
         {
-          "title": "摩根大通承认国会山骚乱后关了特朗普的账户",
-          "url": "https://wallstreetcn.com/livenews/3057262",
-          "source": "华尔街见闻-快讯",
+          "title": "格陵兰岛总理对美国总统特朗普派遣医疗船前往格陵兰岛的提议说：“不了，谢谢。”",
+          "url": "https://flash.jin10.com/detail/20260222222304008800",
+          "source": "金十数据",
           "ranks": [
-            3,
-            8,
-            9,
-            13
+            5
           ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时24分 ~ 22时29分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时27分"
         },
         {
           "title": "德媒：特朗普向格陵兰岛派遣医院船的举动可能加剧美国与丹麦的紧张关系",
@@ -528,21 +557,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[15时37分 ~ 18时28分]"
-        },
-        {
-          "title": "美国总统特使：特朗普感到“好奇”，“伊朗为何还没有屈服”",
-          "url": "https://wallstreetcn.com/livenews/3057256",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            9,
-            14,
-            15,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时28分 ~ 22时29分]"
         },
         {
           "title": "巴西总统卢拉：我与美国总统特朗普会晤的议程是贸易、移民和投资。",
@@ -767,17 +781,18 @@
           "url": "https://flash.jin10.com/detail/20260222213944275800",
           "source": "金十数据",
           "ranks": [
-            18
+            18,
+            24
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时29分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时29分 ~ 23时27分]"
         }
       ]
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 34,
+      "match_count": 38,
       "titles": [
         {
           "title": "中东睿评｜美以与伊朗博弈的混沌状态只能靠战争才能打破吗？",
@@ -790,8 +805,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[12时50分 ~ 22时29分]"
+          "appearance_count": 17,
+          "time_info": "[12时50分 ~ 23时27分]"
         },
         {
           "title": "伊朗外长拒绝打开美方装有导弹提议的信函，并将其退回",
@@ -826,8 +841,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[16时35分 ~ 22时29分]"
+          "appearance_count": 12,
+          "time_info": "[16时35分 ~ 23时27分]"
         },
         {
           "title": "美国伊朗是否会达成协议",
@@ -924,8 +939,35 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时28分 ~ 22时29分]"
+          "appearance_count": 3,
+          "time_info": "[22时28分 ~ 23时27分]"
+        },
+        {
+          "title": "美官员：若伊朗尽快提交核协议草案 美伊会谈或将于27日举行",
+          "url": "https://wallstreetcn.com/livenews/3057276",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时27分"
+        },
+        {
+          "title": "伊朗官员称伊朗与美国在解除制裁问题上存在分歧，计划于3月初举行新一轮会谈。（路透）",
+          "url": "https://wallstreetcn.com/livenews/3057255",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            10,
+            15,
+            16,
+            20,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[18时28分 ~ 23时27分]"
         },
         {
           "title": "伊朗",
@@ -969,21 +1011,6 @@
           "time_info": "[18时28分 ~ 21时46分]"
         },
         {
-          "title": "伊朗官员称伊朗与美国在解除制裁问题上存在分歧，计划于3月初举行新一轮会谈。（路透）",
-          "url": "https://wallstreetcn.com/livenews/3057255",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            10,
-            15,
-            16,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时28分 ~ 22时29分]"
-        },
-        {
           "title": "市场消息：伊朗外长阿拉格奇和国际原子能机构总干事格罗西通过电话讨论了美伊谈判。",
           "url": "https://flash.jin10.com/detail/20260222160427817800",
           "source": "金十数据",
@@ -999,6 +1026,17 @@
         },
         {
           "title": "伊朗总统：伊朗人民绝不会向霸凌屈服",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32641336",
+          "source": "澎湃新闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[21时45分 ~ 23时27分]"
+        },
+        {
+          "title": "伊朗总统：伊朗人民绝不会向霸凌屈服",
           "url": "https://wallstreetcn.com/livenews/3057200",
           "source": "华尔街见闻-快讯",
           "ranks": [
@@ -1008,17 +1046,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时27分 ~ 10时23分]"
-        },
-        {
-          "title": "伊朗总统：伊朗人民绝不会向霸凌屈服",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32641336",
-          "source": "澎湃新闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[21时45分 ~ 22时29分]"
         },
         {
           "title": "伊朗高级官员：伊朗与美国在制裁减免问题上存在分歧",
@@ -1122,6 +1149,18 @@
           "time_info": "[07时27分 ~ 10时23分]"
         },
         {
+          "title": "据AXIOS网站：如果伊朗尽快提交核方案，美伊谈判预计将于下周五举行。",
+          "url": "https://flash.jin10.com/detail/20260222220602460800",
+          "source": "金十数据",
+          "ranks": [
+            8,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时29分 ~ 23时27分]"
+        },
+        {
           "title": "德国、瑞典和斯洛伐克呼吁本国公民勿赴伊朗",
           "url": "https://wallstreetcn.com/livenews/3057203",
           "source": "华尔街见闻-快讯",
@@ -1193,15 +1232,37 @@
           "time_info": "[10时22分 ~ 10时23分]"
         },
         {
-          "title": "据AXIOS网站：如果伊朗尽快提交核方案，美伊谈判预计将于下周五举行。",
-          "url": "https://flash.jin10.com/detail/20260222220602460800",
+          "title": "美媒：若伊朗很快提交核方案，美伊会谈预计将于周五举行",
+          "url": "https://flash.jin10.com/detail/20260222221813362800",
           "source": "金十数据",
           "ranks": [
-            8
+            6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "22时29分"
+          "time_info": "23时27分"
+        },
+        {
+          "title": "伊朗总统：绝不会向霸凌屈服",
+          "url": "https://www.toutiao.com/trending/7609473408021446665/",
+          "source": "今日头条",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时27分"
+        },
+        {
+          "title": "伊朗将欧盟国家海空军列为恐怖组织",
+          "url": "https://www.toutiao.com/trending/7608455749735317531/",
+          "source": "今日头条",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时27分"
         }
       ]
     },
@@ -1232,8 +1293,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 28,
-          "time_info": "[00时31分 ~ 22时29分]"
+          "appearance_count": 29,
+          "time_info": "[00时31分 ~ 23时27分]"
         },
         {
           "title": "过去30年来未见之局面！美股指数波动之小创1960年来之最，而个股波动率却高达指数7倍",
@@ -1248,8 +1309,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[13时53分 ~ 22时29分]"
+          "appearance_count": 16,
+          "time_info": "[13时53分 ~ 23时27分]"
         },
         {
           "title": "美股收盘：多重利空压顶华尔街情绪恶化 三大指数集体下跌",
@@ -1302,11 +1363,12 @@
             16,
             17,
             27,
-            21
+            21,
+            29
           ],
           "is_new": false,
-          "appearance_count": 26,
-          "time_info": "[00时31分 ~ 22时29分]"
+          "appearance_count": 27,
+          "time_info": "[00时31分 ~ 23时27分]"
         },
         {
           "title": "都想学英伟达“芯片换融资”，谷歌和AMD都要扶持“AI云”",
@@ -1334,8 +1396,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 28,
-          "time_info": "[00时31分 ~ 22时29分]"
+          "appearance_count": 29,
+          "time_info": "[00时31分 ~ 23时27分]"
         },
         {
           "title": "表面风光之下，OpenAI的“四大困境”",
@@ -1348,8 +1410,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[15时37分 ~ 22时29分]"
+          "appearance_count": 13,
+          "time_info": "[15时37分 ~ 23时27分]"
         },
         {
           "title": "传言成真？英伟达对OpenAI的“1000亿美元投资”最终“打了三折”",
@@ -1383,8 +1445,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[12时50分 ~ 22时29分]"
+          "appearance_count": 17,
+          "time_info": "[12时50分 ~ 23时27分]"
         }
       ]
     },
