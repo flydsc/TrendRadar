@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-17T22:29:17.988568+08:00",
-  "total_titles_processed": 1334,
+  "generated_at": "2026-08-17T23:27:17.140669+08:00",
+  "total_titles_processed": 1420,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 50,
+      "match_count": 53,
       "titles": [
         {
           "title": "特朗普又发旧照，称“与金正恩相处融洽”(图)",
@@ -39,8 +39,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时58分 ~ 22时29分]"
+          "appearance_count": 7,
+          "time_info": "[11时58分 ~ 23时27分]"
         },
         {
           "title": "沙土巴三国签署共同防务协议，特朗普发声",
@@ -65,6 +65,17 @@
           "time_info": "[11时58分 ~ 12时49分]"
         },
         {
+          "title": "特朗普要求伊朗举白旗投降",
+          "url": "https://news.ifeng.com/c/8vfb7aoIQAb",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时29分 ~ 23时27分]"
+        },
+        {
           "title": "美国总统特朗普：伊朗绝不能以任何方式、形态或形式拥有核武器。",
           "url": "https://flash.jin10.com/detail/20260817181911430800",
           "source": "金十数据",
@@ -76,17 +87,6 @@
           "time_info": "18时33分"
         },
         {
-          "title": "特朗普要求伊朗举白旗投降",
-          "url": "https://news.ifeng.com/c/8vfb7aoIQAb",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时29分"
-        },
-        {
           "title": "美国总统特朗普：首要目标是伊朗不能拥有核武器。",
           "url": "https://flash.jin10.com/detail/20260817181853245800",
           "source": "金十数据",
@@ -96,6 +96,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时33分"
+        },
+        {
+          "title": "伊朗战事拖累选情，特朗普被曝拨款支持共和党候选人",
+          "url": "https://wallstreetcn.com/livenews/3150585",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时27分"
         },
         {
           "title": "英伟达5000亿AI融资计划暗藏隐忧，特朗普顾问警示“暗GPU”过剩风险",
@@ -255,6 +266,18 @@
           "time_info": "[11时58分 ~ 12时49分]"
         },
         {
+          "title": "特朗普威胁：若阿曼阻碍美伊和平协议 将对其发动轰炸",
+          "url": "https://www.cls.cn/detail/2456389",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时29分 ~ 23时27分]"
+        },
+        {
           "title": "埃及、约旦、阿联酋、卡塔尔、印度尼西亚、沙特阿拉伯、土耳其和巴基斯坦的联合声明称，以色列的拒绝态度威胁到特朗普为结束加沙战争所作的加大力度的努力。",
           "url": "https://flash.jin10.com/detail/20260816235052320800",
           "source": "金十数据",
@@ -320,17 +343,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时26分"
-        },
-        {
-          "title": "特朗普威胁：若阿曼阻碍美伊和平协议 将对其发动轰炸",
-          "url": "https://www.cls.cn/detail/2456389",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时29分"
         },
         {
           "title": "据阿拉比亚电视台：特朗普高级顾问库什纳向哈马斯领导人确认，哈马斯的武器将会从加沙地带撤出，不会在加沙存放。",
@@ -416,7 +428,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时29分"
         },
@@ -460,9 +472,20 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时29分"
+        },
+        {
+          "title": "释疑丨扒开新型美式政商关系：特朗普到哪儿，权贵们的房子就买到哪儿",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33797232",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时27分"
         },
         {
           "title": "美国能源部长赖特：美国在天然气产量方面处于全球领先地位。得益于特朗普总统推动的“美国能源主导”议程，我们将在未来几十年继续保持领先地位。",
@@ -471,7 +494,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时29分"
         },
@@ -537,9 +560,20 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时29分"
+        },
+        {
+          "title": "以色列总统：今天在耶路撒冷总统府会见了美国特使库什纳、“和平委员会”加沙高级代表姆拉德诺夫以及他们的团队。他们正根据特朗普总统提出的20点计划推动加沙下一阶段的落实工作。我强调，下一阶段必须确保以色列国及其公民的安全，并为该地区所有民族带来稳定以及更加美好的未来。",
+          "url": "https://flash.jin10.com/detail/20260817223608155800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时27分"
         },
         {
           "title": "特朗普威胁称，如果阿曼妨碍美国，美国将轰炸阿曼",
@@ -578,7 +612,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 38,
+      "match_count": 43,
       "titles": [
         {
           "title": "伊朗高层换血，革命卫队更强势了？",
@@ -649,8 +683,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时44分 ~ 22时29分]"
+          "appearance_count": 3,
+          "time_info": "[20时44分 ~ 23时27分]"
         },
         {
           "title": "伊朗：美军不得进入霍尔木兹海峡",
@@ -666,6 +700,17 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[02时31分 ~ 07时21分]"
+        },
+        {
+          "title": "据伊朗塔斯尼姆通讯社：美国再次派遣间谍气球飞越伊拉克埃尔比勒上空。",
+          "url": "https://flash.jin10.com/detail/20260817231127618800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时27分"
         },
         {
           "title": "据伊朗方面报道：近期冲突中有超过200架敌方飞机被击落。",
@@ -688,6 +733,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时33分"
+        },
+        {
+          "title": "美国屡次“违约”，伊朗强硬派放弃对美幻想，被曝秘密扩军备战“新一轮对抗”",
+          "url": "https://wallstreetcn.com/articles/3779592",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时44分 ~ 23时27分]"
         },
         {
           "title": "伊朗议会通过反渗透法案",
@@ -774,18 +831,6 @@
           "time_info": "[00时26分 ~ 02时31分]"
         },
         {
-          "title": "美国屡次“违约”，伊朗强硬派放弃对美幻想，被曝秘密扩军备战“新一轮对抗”",
-          "url": "https://wallstreetcn.com/articles/3779592",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时44分 ~ 22时29分]"
-        },
-        {
           "title": "据伊朗塔斯尼姆通讯社：伊朗议会议长卡利巴夫表示，我们在军事和政治上都赢得了这场战争。这并非指我们摧毁了美军；而是指美国和以色列曾带着9项明确且公开宣称的目标向我们发动攻击，但无论在哪个层面，他们都未能实现其中任何一项。",
           "url": "https://flash.jin10.com/detail/20260817025637231800",
           "source": "金十数据",
@@ -823,6 +868,17 @@
           "time_info": "[04时23分 ~ 05时21分]"
         },
         {
+          "title": "伊朗称美国被驱逐已成事实，今后不得进入波斯湾、阿曼湾和霍尔木兹海峡，如何看待这一表态？",
+          "url": "https://www.zhihu.com/question/2072617673721226019",
+          "source": "知乎",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时33分 ~ 23时27分]"
+        },
+        {
           "title": "卡塔尔外交部：首相强调，各方必须坚持对话与外交，落实美国与伊朗之间谅解备忘录中达成的共识，包括确保霍尔木兹海的航行自由，以维护地区安全，保护已取得的成就，并增强地区稳定。",
           "url": "https://flash.jin10.com/detail/20260817025315208800",
           "source": "金十数据",
@@ -836,15 +892,15 @@
           "time_info": "[03时22分 ~ 05时21分]"
         },
         {
-          "title": "伊朗称美国被驱逐已成事实，今后不得进入波斯湾、阿曼湾和霍尔木兹海峡，如何看待这一表态？",
-          "url": "https://www.zhihu.com/question/2072617673721226019",
-          "source": "知乎",
+          "title": "伊朗官员：已为美国履行谅解备忘录设定最后期限",
+          "url": "https://wallstreetcn.com/livenews/3150580",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            11
+            7
           ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时33分 ~ 22时29分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时27分"
         },
         {
           "title": "伊朗第一副总统：物价高涨已达到令人不安的程度，敌人的策略就是利用这一点。",
@@ -864,7 +920,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时29分"
         },
@@ -878,6 +934,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时31分"
+        },
+        {
+          "title": "伊朗称政策转向全面进攻，宇树科技上市时间确定",
+          "url": "https://flash.jin10.com/detail/20260817225828181800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时27分"
         },
         {
           "title": "据路透社：伊朗高级官员表示，伊朗设定的时间框架将通过调解人传达给美国及地区国家。伊朗不会无限期等待美国继续实施海上封锁。",
@@ -900,6 +967,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "20时44分"
+        },
+        {
+          "title": "据伊朗学生通讯社：沙特使用炮火袭击了位于也门萨达省边境地区拉齐赫市的阿尔舒瓦尔克（Al-Shawarq）地区村庄。",
+          "url": "https://flash.jin10.com/detail/20260817225427186800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时27分"
+        },
+        {
+          "title": "据伊朗学生通讯社：沙特阿拉伯袭击也门边境地区 。",
+          "url": "https://flash.jin10.com/detail/20260817225338494800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时27分"
         },
         {
           "title": "据伊朗塔斯尼姆通讯社：也门西部穆哈发生剧烈爆炸。也门武装部队发射数十枚弹道导弹和无人机，袭击了穆哈和马里卜地区亲沙特雇佣军的军事阵地及武器库。",
@@ -930,7 +1019,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时29分"
         },
@@ -974,7 +1063,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时29分"
         },
@@ -996,7 +1085,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时29分"
         },
@@ -1026,8 +1115,20 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 9,
+      "match_count": 11,
       "titles": [
+        {
+          "title": "美股期指涨跌不一 芯片股盘前走高 国际油价上涨 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2456385",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时29分 ~ 23时27分]"
+        },
         {
           "title": "华尔街“恐慌指数”触及年内低点，机构警告美股秋季抛售风险加剧",
           "url": "https://flash.jin10.com/detail/20260817220603052800",
@@ -1035,20 +1136,20 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时29分"
         },
         {
-          "title": "美股期指涨跌不一 芯片股盘前走高 国际油价上涨 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2456385",
-          "source": "财联社热门",
+          "title": "美联储加息预期降温，AI情绪回暖，美股指涨跌互现，存储芯片股普涨，金油齐涨",
+          "url": "https://wallstreetcn.com/articles/3779603",
+          "source": "华尔街见闻",
           "ranks": [
-            8
+            9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "22时29分"
+          "time_info": "23时27分"
         },
         {
           "title": "美股光通信板块盘初走高，迈威尔科技涨超6%，Coherent涨近5%，Lumentum涨近3%。",
@@ -1057,7 +1158,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时29分"
         },
@@ -1068,7 +1169,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时29分"
         },
@@ -1079,9 +1180,20 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时29分"
+        },
+        {
+          "title": "美股存储板块进一步扩大涨幅，SK海力士ADR涨6.5%，美光科技涨5.7%，闪迪股价涨10.5%。",
+          "url": "https://wallstreetcn.com/livenews/3150574",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时27分"
         },
         {
           "title": "美股盘初：纳指涨0.2%，存储芯片股普涨",
@@ -1090,7 +1202,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时29分"
         },
@@ -1112,7 +1224,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时29分"
         },
@@ -1131,7 +1243,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "【早报】英伟达缩减对OpenAI数据中心项目提供2500亿美元担保的计划；伊朗称已与阿曼就霍尔木兹海峡通行方案达成协议",
@@ -1205,13 +1317,24 @@
           "time_info": "[12时48分 ~ 12时49分]"
         },
         {
+          "title": "市场消息：美国金融服务公司Synchrony宣布与OpenAI达成企业合作协议，Synchrony将部署GPT-5.6 Sol、Terra和Luna模型，还将推出ChatGPT插件。",
+          "url": "https://flash.jin10.com/detail/20260817230059912800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时27分"
+        },
+        {
           "title": "英伟达：OpenAI已承诺到2030年大规模部署英伟达AI基础设施，现有及计划中的部署规模约为12吉瓦",
           "url": "https://wallstreetcn.com/livenews/3150525",
           "source": "华尔街见闻-快讯",
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时29分"
         },
@@ -1222,7 +1345,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时29分"
         }
@@ -1358,7 +1481,7 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "金价大涨藏着什么信号",
@@ -1381,12 +1504,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时58分"
+        },
+        {
+          "title": "金价回调半年抛压基本释放",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E5%9B%9E%E8%B0%83%E5%8D%8A%E5%B9%B4%E6%8A%9B%E5%8E%8B%E5%9F%BA%E6%9C%AC%E9%87%8A%E6%94%BE%23&t=31&band_rank=18&Refer=top",
+          "source": "微博",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时27分"
         }
       ]
     },
     {
       "keyword_group": "美债",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "美债逼近40万亿，美银Hartnett：做多黄金是当下最优解",
@@ -1398,8 +1532,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时48分 ~ 22时29分]"
+          "appearance_count": 6,
+          "time_info": "[12时48分 ~ 23时27分]"
         },
         {
           "title": "媒体人：美债买卖日本救火中国搬家",
@@ -1412,6 +1546,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[03时21分 ~ 05时21分]"
+        },
+        {
+          "title": "汇丰：美联储缩减持仓将使美债只能依赖价格敏感型买家",
+          "url": "https://wallstreetcn.com/livenews/3150581",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时27分"
         }
       ]
     }
