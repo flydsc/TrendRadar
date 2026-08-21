@@ -1,365 +1,211 @@
 {
-  "generated_at": "2026-08-19T04:37:43.857116+08:00",
-  "total_titles_processed": 311,
+  "generated_at": "2026-08-21T09:20:08.372777+08:00",
+  "total_titles_processed": 314,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "伊朗",
-      "match_count": 10,
+      "keyword_group": "美债",
+      "match_count": 6,
       "titles": [
         {
-          "title": "伊朗将重拳出击，霍尔木兹海峡上演猫鼠游戏",
-          "url": "https://v.ifeng.com/c/8vfiQsf50xA",
-          "source": "凤凰网",
+          "title": "贝森特干预影响消退，美债美股齐跌，沃尔玛暴跌9%，黄金突破200日均线，数字货币再猛涨",
+          "url": "https://wallstreetcn.com/articles/3779853",
+          "source": "华尔街见闻",
           "ranks": [
-            3
+            1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时37分"
+          "appearance_count": 2,
+          "time_info": "[09时19分 ~ 09时20分]"
         },
         {
-          "title": "阿联酋外交部表示，暂停与伊朗的所有商业活动和金融交易，直至另行通知。",
-          "url": "https://flash.jin10.com/detail/20260819041406302800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时37分"
-        },
-        {
-          "title": "伊朗称「美军比想象中更弱」，这一判断基于哪些事实，反映出美军的何种现状？",
-          "url": "https://www.zhihu.com/question/2071850141703729771",
-          "source": "知乎",
+          "title": "美财政部回购效应消退 美债收益率回升 美股期指走低 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2459896",
+          "source": "财联社热门",
           "ranks": [
             5
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时37分"
+          "appearance_count": 2,
+          "time_info": "[09时19分 ~ 09时20分]"
         },
         {
-          "title": "伊朗媒体调查称伊朗向阿联酋发射导弹报道缺乏依据",
-          "url": "https://flash.jin10.com/detail/20260819034333528800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时37分"
-        },
-        {
-          "title": "阿联酋国防部：从伊朗发射的两枚弹道导弹以海上航运为攻击目标。",
-          "url": "https://wallstreetcn.com/livenews/3151307",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时37分"
-        },
-        {
-          "title": "伊朗最高国家安全委员会秘书雷扎伊：美国在霍尔木兹海峡的失利，标志波斯湾进入“后美国时代秩序”。",
-          "url": "https://wallstreetcn.com/livenews/3151304",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时37分"
-        },
-        {
-          "title": "阿联酋国防部称，伊朗发射的两枚弹道导弹目标是海上交通。",
-          "url": "https://flash.jin10.com/detail/20260819033404351800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时37分"
-        },
-        {
-          "title": "伊朗宣布两名法国外交人员为“不受欢迎的人”",
-          "url": "https://wallstreetcn.com/livenews/3151302",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时37分"
-        },
-        {
-          "title": "伊朗最高领袖将主持活动",
-          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E6%9C%80%E9%AB%98%E9%A2%86%E8%A2%96%E5%B0%86%E4%B8%BB%E6%8C%81%E6%B4%BB%E5%8A%A8",
-          "source": "百度热搜",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时37分"
-        },
-        {
-          "title": "阿联酋称伊朗向该国发射两枚导弹，为5月以来首次袭击",
-          "url": "https://wallstreetcn.com/livenews/3151294",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时37分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美股",
-      "match_count": 7,
-      "titles": [
-        {
-          "title": "美股大类资产类ETF多数收跌，新兴市场ETF跌超2.9%，黄金ETF跌1.7%",
-          "url": "https://wallstreetcn.com/livenews/3151328",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时37分"
-        },
-        {
-          "title": "周二（8月18日），美股行业ETF多数收跌，半导体ETF跌4.09%，全球科技股指数ETF跌3.08%，科技行业ETF跌2.47%，能源业ETF涨1.76%。",
-          "url": "https://wallstreetcn.com/livenews/3151324",
-          "source": "华尔街见闻-快讯",
+          "title": "贝森特“救美债”就是“放弃美元”，花旗：强烈看多黄金！",
+          "url": "https://wallstreetcn.com/articles/3779856",
+          "source": "华尔街见闻",
           "ranks": [
             6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时37分"
+          "appearance_count": 2,
+          "time_info": "[09时19分 ~ 09时20分]"
         },
         {
-          "title": "金十图示：2026年08月18日（周二）美股热门股票行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20260819040601296800",
-          "source": "金十数据",
+          "title": "美债、伊朗两头忙！贝森特放话：回购还能加码 制裁下周披露",
+          "url": "https://www.cls.cn/detail/2460072",
+          "source": "财联社热门",
           "ranks": [
             7
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时37分"
+          "appearance_count": 2,
+          "time_info": "[09时19分 ~ 09时20分]"
         },
         {
-          "title": "周二（8月18日），彭博电动汽车价格回报指数跌2.50%，报3453.81点。 指数全天处于下跌状态，北京时间10:00前后显著扩大跌幅，美股开盘后迅速扩大跌幅。",
-          "url": "https://wallstreetcn.com/livenews/3151323",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时37分"
-        },
-        {
-          "title": "金十图示：2026年08月18日（周二）热门中概股行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20260819040537714800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时37分"
-        },
-        {
-          "title": "美股收盘：三大股指收跌 海力士跌9%",
-          "url": "https://flash.jin10.com/detail/20260819040221143800",
-          "source": "金十数据",
+          "title": "回购提振效果仅维持一日，美债30年期收益率重回5.26%",
+          "url": "https://wallstreetcn.com/articles/3779920",
+          "source": "华尔街见闻",
           "ranks": [
             10
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时37分"
+          "appearance_count": 2,
+          "time_info": "[09时19分 ~ 09时20分]"
         },
         {
-          "title": "美股",
-          "url": "https://s.weibo.com/weibo?q=%E7%BE%8E%E8%82%A1&t=31&band_rank=19&Refer=top",
-          "source": "微博",
+          "title": "狂飙美债对全球意味着什么",
+          "url": "https://www.toutiao.com/trending/7676018598879432235/",
+          "source": "今日头条",
           "ranks": [
-            19
+            24
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时37分"
+          "appearance_count": 2,
+          "time_info": "[09时19分 ~ 09时20分]"
         }
       ]
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 6,
+      "match_count": 4,
       "titles": [
         {
-          "title": "特朗普发布地图，将霍尔木兹海峡划为“美国新领土”",
-          "url": "https://news.ifeng.com/c/8vhHYZ5eOge",
+          "title": "特朗普称将于11月同金正恩会晤，外交部回应",
+          "url": "https://news.ifeng.com/c/8vkEJXjR9MI",
           "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时19分 ~ 09时20分]"
+        },
+        {
+          "title": "特朗普展示白宫施工项目：我非常擅长搞建设 没有人比我做得更好",
+          "url": "https://www.cls.cn/detail/2460003",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时19分 ~ 09时20分]"
+        },
+        {
+          "title": "特朗普签备忘录：探索商业机器人登陆火星 2030年实现每年超千次发射与再入任务",
+          "url": "https://www.cls.cn/detail/2460167",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时19分 ~ 09时20分]"
+        },
+        {
+          "title": "新闻蒸馏器｜特朗普宣布经济战孤立伊朗，警告任何国家不得提供“生命线”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33815972",
+          "source": "澎湃新闻",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时19分 ~ 09时20分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美股",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "【早报】美股存储、光通信板块走强；医药牛股莫德纳暴跌23%；原油大涨、黄金微跌；泡泡玛特、阿里巴巴、中信证券最新业绩公布",
+          "url": "https://www.cls.cn/detail/2460127",
+          "source": "财联社热门",
           "ranks": [
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时37分"
+          "appearance_count": 2,
+          "time_info": "[09时19分 ~ 09时20分]"
         },
         {
-          "title": "特朗普：不着急结束伊朗战争，若阿曼阻碍谈判、将“狠狠轰炸”，伊朗警告转向全面进攻",
-          "url": "https://wallstreetcn.com/articles/3779635",
-          "source": "华尔街见闻",
+          "title": "美股收盘：贝森特“救市”有效期仅持续一天 阿里巴巴绩后低开高走",
+          "url": "https://www.cls.cn/detail/2460111",
+          "source": "财联社热门",
           "ranks": [
             3
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时37分"
+          "appearance_count": 2,
+          "time_info": "[09时19分 ~ 09时20分]"
         },
         {
-          "title": "罕见公开说“不”！内塔尼亚胡为何硬刚特朗普？",
-          "url": "https://news.ifeng.com/c/8vhArHdu44B",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时37分"
-        },
-        {
-          "title": "知情人士：美加关税豁免方案已提交特朗普待批",
-          "url": "https://flash.jin10.com/detail/20260819041019514800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时37分"
-        },
-        {
-          "title": "特朗普的“相扑手”，会走上白宫讲台吗？",
-          "url": "https://news.ifeng.com/c/8vhELdiMK92",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时37分"
-        },
-        {
-          "title": "特朗普反复要求CNN记者别吵：“假新闻，你闭嘴”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33803619",
-          "source": "澎湃新闻",
+          "title": "美股三大指数全线收跌",
+          "url": "https://www.douyin.com/hot/2617626",
+          "source": "抖音",
           "ranks": [
             18
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时37分"
+          "appearance_count": 2,
+          "time_info": "[09时19分 ~ 09时20分]"
         }
       ]
     },
     {
-      "keyword_group": "美债",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "全球股债齐挫！美股低开、存储芯片股普跌，30年期美债收益率创07年以来新高，油价上行、金银走弱",
-          "url": "https://wallstreetcn.com/articles/3779677",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时37分"
-        },
-        {
-          "title": "美债抛售潮恐持续！华尔街齐拉警报 一文读懂背后推手",
-          "url": "https://www.cls.cn/detail/2457199",
-          "source": "财联社热门",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时37分"
-        },
-        {
-          "title": "中东风险推高油价，美股美债齐跌，存储芯片、光通信逆势大涨，黄金涨回4400",
-          "url": "https://wallstreetcn.com/articles/3779603",
-          "source": "华尔街见闻",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时37分"
-        },
-        {
-          "title": "30年期美债收益率创2007年以来新高：油价、财政赤字与AI发债共推长端利率上行",
-          "url": "https://wallstreetcn.com/articles/3779638",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时37分"
-        },
-        {
-          "title": "油价与通胀担忧推升美债收益率 美股三大期指集体走低 芯片股回调 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2457477",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时37分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美元",
+      "keyword_group": "伊朗",
       "match_count": 2,
       "titles": [
         {
-          "title": "美元指数18日上涨",
-          "url": "https://flash.jin10.com/detail/20260819035212670800",
-          "source": "金十数据",
+          "title": "美公布对伊经济孤立措施，伊朗：徒劳无功，误判将付出代价",
+          "url": "https://news.ifeng.com/c/8vlKowYU0MT",
+          "source": "凤凰网",
           "ranks": [
-            13
+            8
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时37分"
+          "appearance_count": 2,
+          "time_info": "[09时19分 ~ 09时20分]"
         },
         {
-          "title": "周二（8月18日）纽约尾盘，ICE美元指数持平，报99.638点，日内交投区间为99.521-99.693点。 彭博美元指数涨0.08%，报1201.24点，日内交投区间为1199.46-1201.60点。",
-          "url": "https://wallstreetcn.com/livenews/3151301",
-          "source": "华尔街见闻-快讯",
+          "title": "伊朗回应“美将公布经济孤立措施”",
+          "url": "https://www.toutiao.com/trending/7676254990444285503/",
+          "source": "今日头条",
           "ranks": [
-            24
+            21
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时37分"
+          "appearance_count": 2,
+          "time_info": "[09时19分 ~ 09时20分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "DeepSeek 梁文锋",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "Deepseek 涨价了，有哪些便宜的替代方案？",
+          "url": "https://www.zhihu.com/question/2072733800774354696",
+          "source": "知乎",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时19分 ~ 09时20分]"
         }
       ]
     }
